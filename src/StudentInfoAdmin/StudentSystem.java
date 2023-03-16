@@ -8,7 +8,7 @@ public class StudentSystem {
     public static void main(String[] args) {
         ArrayList<Student> list = new ArrayList<>();
         loop:while(true){
-            System.out.println("--------Welcome to the student information administration system--------");
+            System.out.println("--------Welcome to the student information management system--------");
             System.out.println("1:Add student");
             System.out.println("2:Delete student");
             System.out.println("3:Modify student");
