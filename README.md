@@ -5,6 +5,7 @@
 3:Modify student
 4:Query student
 5:Exit
+	
 
 <Add function>
 Key in the student id to be modified.
